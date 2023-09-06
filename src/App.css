@@ -1,0 +1,16 @@
+td {
+    border: 1px solid lightgray;
+    padding: 0 1rem;
+}
+
+form{ max-width: 23rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+table {
+    width: 30rem;
+    border: 1px solid gray;
+    padding: 1rem;
+}
